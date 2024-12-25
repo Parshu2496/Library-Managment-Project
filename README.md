@@ -24,6 +24,8 @@ To get a copy of this project up and running on your local machine, follow these
    https://github.com/Parshu2496/Library-Managment-Project.git
 2. **Open the File:**
    Open the File Library_Managment.exe file in command prompt. It will open the file in binary mode. If you run the file in vs code or other application it may not print the correct output because they do not read the file in binary mode.
+
+
 ## Usage
 Once the application is running, you will be presented with a menu of options. Follow the prompts to manage your library. You can add books, remove books, search for books, and manage user accounts through the command-line interface.
 1. After opening the File in command prompt you will see 6 options.
@@ -31,6 +33,9 @@ Once the application is running, you will be presented with a menu of options. F
 
 2. To add a book click on option 1 and add the necessary details as shown below.
    ![image](https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20103220.png)
+
+3. The book you have added can be seen in view book list option simply click 3rd option.
+4. ![image](https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20113343.png)
 ## Technologies Used
     1) C Programming Language
     2) GCC Compiler
