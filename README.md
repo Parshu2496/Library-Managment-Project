@@ -38,7 +38,7 @@ Once the application is running, you will be presented with a menu of options. F
    ![image](https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20113343.png)
 
 4. You can issue book to someone by Entering certain information of the student and book.
-   ![image] (https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20103220.png)
+   ![image](https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20103220.png)
 
 5. You can see the record of books issued by pressing 5.
    ![image](https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20114957.png)
