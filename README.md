@@ -23,7 +23,7 @@ To get a copy of this project up and running on your local machine, follow these
    ```bash
    https://github.com/Parshu2496/Library-Managment-Project.git
 2. **Open the File:**
-   Open the File library.exe file in command prompt. It will open the file in binary mode. If you run the file in vs code or other application it may not print the correct output because they do not read the file in binary mode.
+   Open the File Library_Managment.exe file in command prompt. It will open the file in binary mode. If you run the file in vs code or other application it may not print the correct output because they do not read the file in binary mode.
 ## Usage
 Once the application is running, you will be presented with a menu of options. Follow the prompts to manage your library. You can add books, remove books, search for books, and manage user accounts through the command-line interface.
 
