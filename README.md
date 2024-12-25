@@ -35,7 +35,10 @@ Once the application is running, you will be presented with a menu of options. F
    ![image](https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20103220.png)
 
 3. The book you have added can be seen in view book list option simply click 3rd option.
-4. ![image](https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20113343.png)
+   ![image](https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20113343.png)
+
+4. You can issue book to someone by Entering certain information of the student and book.
+   ![image] (https://github.com/Parshu2496/Library-Managment-Project/blob/main/Screenshot%202024-12-25%20103220.png)
 ## Technologies Used
     1) C Programming Language
     2) GCC Compiler
