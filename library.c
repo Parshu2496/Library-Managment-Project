@@ -116,7 +116,7 @@ void booklist(){
     }
 
     fclose(fp);
-    asdf
+
 }
 void removeBook(){
     int id,f = 0;
