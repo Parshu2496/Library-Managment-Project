@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<string.h>
 #include<stdlib.h>
 #include<time.h>
 
@@ -38,8 +38,6 @@ int main(){
         scanf("%d", &ch);
 
         switch(ch){
-        case 0:
-            exit(0);
 
         case 1:
             addBook();
@@ -60,6 +58,8 @@ int main(){
         case 5:
             issueList();
             break;
+        case 6:
+            exit(0);
 
         default:
             printf("Invalid Choice...\n\n");
