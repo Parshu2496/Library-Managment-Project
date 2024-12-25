@@ -138,7 +138,7 @@ void removeBook(){
     }
     if (f == 1)
     {
-        printf("\n\nBook deleted succefully");
+        printf("\n\nBook deleted succefully\n");
 
     }
     else{
